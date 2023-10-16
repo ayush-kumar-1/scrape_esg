@@ -1,0 +1,10 @@
+,Unnamed: 0,cusip8,crsp_fundno,chgdt,chgenddt,crsp_portno,crsp_cl_grp,fund_name,ticker,ncusip,index_fund_flag,vau_fund,et_flag,not_index,link,sustainability_rating,global_category_count,sustainable_investment,hist_sustainability_score,current_sus_score,hist_avg,environmental_rating,social_rating,governance_rating,unallocated_rating,carbon_current,carbon_low,carbon_high,carbon_average,fossil_current,fossil_low,fossil_high,fossil_avg
+1,3105,,832,,,,,First Priority Funds:Equity Fund/Trust,FPETX,,,N,,1,https://www.morningstar.com/funds/xnas/fpetx/portfolio,,,,,,,,,,,,,,,,,,
+2,3110,,834,,,,,First Priority Funds:Fixed Income/Trust,FPFTX,,,N,,1,https://www.morningstar.com/funds/xnas/fpftx/portfolio,,,,,,,,,,,,,,,,,,
+3,4118,,1098,,,,,Institutional Daily Income Fd:US Treasury/A,IDIXX,,,N,,1,https://www.morningstar.com/funds/xnas/idixx/portfolio,,,,,,,,,,,,,,,,,,
+4,7218,,1973,1/1/1993,,,,Prime Value Fund/Horizon Shares,PPNXX,,,N,,1,https://www.morningstar.com/funds/xnas/ppnxx/portfolio,,,,,,,,,,,,,,,,,,
+5,9957,46127J55,3221,3/28/2002,5/31/2002,1000906.0,2000527.0,INVESCO Utilities;A,IAUTX,46127J554,,N,,1,https://www.morningstar.com/funds/xnas/iautx/portfolio,1,1528,No,25.48,25.04,23.28,6.14,10.45,7.03,1.42,12.09,2.78,20.69,10.32,17.97,0.0,61.56,11.93
+6,9979,40171W10,2704,12/31/2005,6/29/2006,,2000379.0,GuideStone Funds: Flexible Income Fund; GS4 Class Shares,GFIZX,40171W108,,N,,1,https://www.morningstar.com/funds/xnas/gfizx/portfolio,,,,,,,,,,,,,,,,,,
+7,10002,40171W40,2706,12/31/2005,6/29/2006,1004350.0,2000380.0,GuideStone Funds: Growth & Income Fund; GS4 Class Shares,GGIZX,40171W405,,N,,1,https://www.morningstar.com/funds/xnas/ggizx/portfolio,,,,,,,,,,,,,,,,,,
+8,10023,,4516,12/31/1986,12/30/1987,,,Thomson McKinnon Growth Fund,TGWBX,,,N,,1,https://www.morningstar.com/funds/xnas/tgwbx/portfolio,,,,,,,,,,,,,,,,,,
+9,10025,76450,2708,12/31/2005,6/29/2006,1004351.0,2000381.0,GuideStone Funds: Capital Opportunities Fund; GS4 Class Shares,GCOZX,764506,,N,,1,https://www.morningstar.com/funds/xnas/gcozx/portfolio,4,4915,No,22.4,21.99,24.29,3.76,9.15,7.12,1.97,7.55,2.42,22.57,8.69,4.83,0.0,40.99,8.95

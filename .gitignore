@@ -1,0 +1,6 @@
+backups/
+chromedriver_mac_arm64/
+chromedriver_win32/
+chromedriver_mac_arm64.zip
+.ipynb_checkpoints/
+chromedriver_win32.zip
